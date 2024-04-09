@@ -38,4 +38,4 @@ This command will fetch news from 'pravda-fi.com' and save it in a JSON file nam
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/CheckFirstHQ/Pravda-links-extractor/issues) if you want to contribute.
 
 ## License
-This project is licensed under the Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
